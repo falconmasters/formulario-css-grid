@@ -1,0 +1,21 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+	background: #E5E5E5;
+}
+
+main {
+	max-width: 800px;
+	width: 90%;
+	margin: auto;
+	padding: 40px;
+}
+
+
+/* ----- -----  Estilos para Validacion ----- ----- */
+
+
+/* ----- -----  Mediaqueries ----- ----- */
